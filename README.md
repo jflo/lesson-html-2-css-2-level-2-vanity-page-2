@@ -30,6 +30,10 @@
   1. [ ] research part 1
 
 ### Project details
-  1. Project name:
-  2. Project summary:
-  3. Project coordinator:
+  1. Project name: JFLOHMAHGAWD
+  2. Project summary: Vanity page detailing how awesome (and vain) I am.
+  3. Project coordinator: Justin Florentine
+      4. Stuff to be vain about.
+      5. cool stuff you did
+      6. cool stuff you like
+      7. connections to other cool stuff that shows coolness
